@@ -1,16 +1,43 @@
-# React + Vite
+# ThinkPlus EdTech Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive EdTech website built for the ThinkPlus Web Development Internship Test. Designed using **React** and **Tailwind CSS**, inspired by top EdTech platforms like SuperGrads, iQuanta, and TopRankers.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Highlights
 
-## React Compiler
+- Built with React + Tailwind CSS
+- Modular UI Components (Cards, Buttons, Navbar, Footer, etc.)
+- Fully Responsive Design (Mobile, Tablet, Desktop)
+- Scroll Animations using AOS / ScrollReveal
+- Deployed on GitHub Pages / Vercel
+- SEO-friendly structure with semantic HTML
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Folder Structure
+src/ ├── assets/ ├── components/ │   ├── Navbar.jsx │   ├── Footer.jsx │   ├── Button.jsx │   ├── CourseCard.jsx │   └── ... ├── pages/ │   ├── Home.jsx │   ├── About.jsx │   ├── Courses.jsx │   └── Contact.jsx ├── App.jsx └── index.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Demo Video
+
+Watch the full walkthrough here: https://drive.google.com/file/d/1BurGgzF8Ukaxj5U-cUdS-e5GOq05Lbsf/view?usp=drive_link
+
+---
+
+## Live Website
+
+Visit the deployed site: https://vaibhavharit14.github.io/ThinkPlus-EdTech/
+
+---
+
+## GitHub Repository
+
+Explore the codebase: https://github.com/vaibhavharit14/ThinkPlus-EdTech
+
+---
+
+
+
+
